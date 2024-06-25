@@ -1,4 +1,4 @@
-# Curso-de-HTML-e-CSS---FATECOINS-Talent
+# HTML-e-CSS--FATECOINS-Talent
 
 🧰 Tecnologias usadas: HTML e CSS
 
